@@ -1,4 +1,4 @@
-# This is a simple random module explanation by S D Sriram 7-I
+
 
 
 # Import random moudule
